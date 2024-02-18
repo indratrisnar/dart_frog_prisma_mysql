@@ -15,7 +15,7 @@ An example application built with dart_frog
 
 [Flutter Delux](https://www.youtube.com/channel/UC0d_xINEvCtlDCpWfBpnYpA)
 
-[This Tutorial]()
+[This Tutorial](https://youtu.be/oT4BMmsullI)
 
 # Prisma Setup CLI
 
